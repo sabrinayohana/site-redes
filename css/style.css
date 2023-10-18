@@ -2,7 +2,7 @@
 :root {
     --primary: #1F4172;
     --secondary: #FE8800;
-    --light: #F5F5F5;
+    --light: #c0c0c0;
     --dark: #14141F;
 }
 
@@ -47,7 +47,7 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #1F4172;
+    color: #c0c0c0;
 }
 
 .btn-square {
