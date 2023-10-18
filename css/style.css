@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #5d8800;
+    --primary: #1F4172;
     --secondary: #FE8800;
     --light: #F5F5F5;
     --dark: #14141F;
@@ -47,7 +47,7 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #FFFFFF;
+    color: #1F4172;
 }
 
 .btn-square {
@@ -173,7 +173,7 @@
 /*** Logo Header ***/
 .hero-header {
 
-    background: linear-gradient(rgba(41, 41, 44, 0.7), rgba(26, 26, 27, 0.7)), url(../img/logo4.png);
+    background: linear-gradient(rgba(41, 41, 44, 0.7), rgba(26, 26, 27, 0.7)), url(../img/background.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
