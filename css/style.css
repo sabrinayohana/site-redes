@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #1F4172;
+    --primary: #FFC436;
     --secondary: #FE8800;
-    --light: #c0c0c0;
-    --dark: #14141F;
+    --light: #F5F5F5;
+    --dark: #0A2647;
 }
 
 .fw-medium {
@@ -47,7 +47,7 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #c0c0c0;
+    color: #fffFFF;
 }
 
 .btn-square {
@@ -83,7 +83,7 @@
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
-    color: #FFFFFF !important;
+    color: #fffFFF !important;
     font-size: 18px;
     font-weight: 600;
     outline: none;
@@ -112,7 +112,7 @@
 @media (max-width: 991.98px) {
     .sticky-top.navbar-light {
         position: relative;
-        background: #FFFFFF;
+        background: #fffFFF;
     }
 
     .navbar-light .navbar-collapse {
@@ -144,7 +144,7 @@
     
     .sticky-top.navbar-light {
         position: fixed;
-        background: #FFFFFF;
+        background: #fffFFF;
     }
 
     .navbar-light .navbar-nav .nav-link::before {
@@ -291,7 +291,7 @@
 }
 
 .team-item .btn {
-    background: #FFFFFF;
+    background: #fffFFF;
     color: var(--primary);
     border-radius: 20px;
     border-bottom: 1px solid var(--primary);
@@ -299,7 +299,7 @@
 
 .team-item .btn:hover {
     background: var(--primary);
-    color: #FFFFFF;
+    color: #fffFFF;
 }
 
 
@@ -351,7 +351,7 @@
 }
 
 .testimonial-carousel .owl-item.center .testimonial-item * {
-    color: #FFFFFF !important;
+    color: #fffFFF !important;
 }
 
 .testimonial-carousel .owl-dots {
@@ -388,7 +388,7 @@
     justify-content: center;
     color: var(--light);
     font-weight: normal;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #fffFFF;
     border-radius: 35px;
     transition: .3s;
 }
@@ -402,7 +402,7 @@
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: #FFFFFF;
+    color: #fffFFF;
     font-size: 15px;
     font-weight: normal;
     text-transform: capitalize;
